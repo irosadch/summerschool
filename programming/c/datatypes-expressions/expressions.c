@@ -2,6 +2,13 @@
 
 int main(int argc, char *argv[])
 {
+int i;
+float d;
+double kk;
+
+printf ("Enter integer:");
+scanf("%d", &i),
+
     // declare integers, floats, and doubles
 
 
